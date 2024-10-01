@@ -1,0 +1,14 @@
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\bin\Debug\net8.0\WDMatch3Assignment.exe
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\bin\Debug\net8.0\WDMatch3Assignment.deps.json
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\bin\Debug\net8.0\WDMatch3Assignment.runtimeconfig.json
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\bin\Debug\net8.0\WDMatch3Assignment.dll
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\bin\Debug\net8.0\WDMatch3Assignment.pdb
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\obj\Debug\net8.0\WDMatch3Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\obj\Debug\net8.0\WDMatch3Assignment.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\obj\Debug\net8.0\WDMatch3Assignment.AssemblyInfo.cs
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\obj\Debug\net8.0\WDMatch3Assignment.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\obj\Debug\net8.0\WDMatch3Assignment.dll
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\obj\Debug\net8.0\refint\WDMatch3Assignment.dll
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\obj\Debug\net8.0\WDMatch3Assignment.pdb
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\obj\Debug\net8.0\WDMatch3Assignment.genruntimeconfig.cache
+C:\Users\wille\source\repos\WDMatch3Assignment\WDMatch3Assignment\obj\Debug\net8.0\ref\WDMatch3Assignment.dll
